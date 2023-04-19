@@ -1,0 +1,115 @@
+body{
+    font-family: 'Big Shoulders Display', cursive;
+    font-family: 'Lexend Deca', sans-serif;
+}
+.main_div{
+    height: 95vh;
+    width: 100%;
+    background-color: hsla(0, 0%, 100%, 0.75);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sub_div{
+    height: 500px;
+    width: 1000px;
+    display: flex;
+}
+.inner_div1{
+    height: 500px;
+    width: 330px;
+    background-color: hsl(31, 77%, 52%);
+    border-radius: 10px 0px 0px 10px;
+}
+.icon_div1{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.heading_div1{
+    color: hsl(0, 0%, 95%);
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.text_div1{
+    color: hsla(0, 0%, 100%, 0.75);
+    margin-left: 50px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.btn_div1{
+    margin-top: 70px;
+    margin-left: 50px;
+    align-items: centre;
+    height: 55px;
+    width: 160px;
+    border-radius: 30px;
+    border: none;
+}
+.btntext1_div{
+    color: hsl(31, 77%, 52%);
+}
+.inner_div2{
+    height: 500px;
+    width: 330px;
+    background-color:  hsl(184, 100%, 22%);
+}
+.icon_div2{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.heading_div2{
+    color: hsl(0, 0%, 95%);
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.text_div2{
+    color: hsla(0, 0%, 100%, 0.75);
+    margin-left: 50px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.btn_div2{
+    margin-top: 70px;
+    margin-left: 50px;
+    align-items: centre;
+    height: 55px;
+    width: 160px;
+    border-radius: 30px;
+    border: none;
+}
+.btntext2_div{
+    color: hsl(184, 100%, 22%);
+}
+.inner_div3{
+    height: 500px;
+    width: 330px;
+    background-color:  hsl(179, 100%, 13%);
+}
+.icon_div3{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.heading_div3{
+    color: hsl(0, 0%, 95%);
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.text_div3{
+    color: hsla(0, 0%, 100%, 0.75);
+    margin-left: 50px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.btn_div3{
+    margin-top: 70px;
+    margin-left: 50px;
+    align-items: centre;
+    height: 55px;
+    width: 160px;
+    border-radius: 30px;
+    border: none;    
+}
+.btntext3_div{
+    color: hsl(179, 100%, 13%);
+}
+
